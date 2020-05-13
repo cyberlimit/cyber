@@ -79,7 +79,7 @@ __banner__ = """
 \033[1;37m     `--`---'  \033[1;31m   /',__) /'_` )/' _ `\| |   /'__`\| |  
 \033[1;37m       ,' '    \033[1;31m   \__, \( (_| || ( ) || |_ (  ___/| |_ 
 \033[1;37m     ./ ,  `,  \033[1;31m   (____/`\__,_)(_) (_)`\__)`\____)`\__)
-\033[1;37m     / /     \  \033[1;37m       Made with \033[1;31m<3\033[0m\033[1;37m by BlackHoleSec\033[0m
+\033[1;37m     / /     \  \033[1;37m       Made with \033[1;31m<3\033[0m\033[1;37m by Cyber Limit\033[0m
 \033[1;37m    (_)))_ _," \033[0m
 \033[1;37m        ||||        DedSecTL - Cvar1984 - ITermSec\033[0m
 \033[1;37m       _||||_,      CiKu370  - amsitlab - X14N23N6\033[0m
@@ -263,7 +263,7 @@ while True:
 		elif santet.lower() == "restart":
 			restart_program()
 		elif santet.lower() == "contact":
-			print("Instagram: @dtlily\nTelegram: @dtlily\nFacebook: cgi.izo\nGitHub: Gameye98\nGitLab: dtlily\nYoutube: dtlily")
+			print("Instagram: @wisnu_eg\nTelegram: -\nFacebook: wisnu\nGitHub: Cyberlimit\nGitLab: dtlily\nYoutube: Cyber Limit")
 		elif santet.lower() == "about":
 			print("Version 1.1\n\nCopyright (C) 2019 by DedSecTL\n\nDedSecTL\nCvar1984\nCiKu370\nMr.TenSwapper07\namsitlab\n[M]izuno\n3RROR_TMX\nMr.K3N\nZetSec\nTroublemaker97\nL_Viole\nX14N23N6\nMR.R45K1N\nlord.zephyrus\n4cliba788\nmr0x100\nMrx04\nViruz\nMr_007\nITermSec\nIdannovita.\nBlackHole Security.")
 		elif santet.lower() == "version":
